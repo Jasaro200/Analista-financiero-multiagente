@@ -17,7 +17,7 @@ Este proyecto explora cómo una **arquitectura multi-agente** apoyada en **LLMs*
 
 ## 2. Arquitectura y patrón de diseño
 
-![Arquitectura multi-agente](diagrams/arquitectura_multiagente.png)
+![Arquitectura multi-agente](Analista-financiero-multiagente\diagrams\Arquitectura_multiagente.png)
 
 La solución sigue un **patrón de orquestación centralizada**:
 
